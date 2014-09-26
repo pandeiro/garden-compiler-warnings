@@ -1,0 +1,14 @@
+*/target
+/app/out
+/app/gardentest.js
+/dist
+/target
+/classes
+/checkouts
+pom.xml
+pom.xml.asc
+config.edn
+*.jar
+*.class
+/.lein-*
+/.nrepl-port
